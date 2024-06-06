@@ -1,0 +1,86 @@
+[
+    {
+        "id": 1,
+        "nome": "Porto de Galinhas",
+        "descricao": "Uma das praias mais famosas do Brasil.",
+        "horarios": "Aberto 24 horas",
+        "custo": "Gratuito",
+        "avaliacoes": [
+            {"usuario": "João", "nota": 5, "comentario": "Lugar incrível para relaxar e aproveitar o sol!"},
+            {"usuario": "Maria", "nota": 4, "comentario": "Praia bonita, águas claras e ótimas opções de comida."},
+            {"usuario": "Pedro", "nota": 3, "comentario": "Muita gente nos finais de semana, prefiro visitar durante a semana."}
+        ],
+        "imagens": ["portodegalinhas1.jpg", "portodegalinhas2.jpg"],
+        "categoria": "praia"
+    },
+    {
+        "id": 2,
+        "nome": "Paris",
+        "descricao": "Capital da França, conhecida como a Cidade Luz.",
+        "horarios": "Varia de acordo com a atração",
+        "custo": "Varia de acordo com a atração",
+        "avaliacoes": [
+            {"usuario": "Ana", "nota": 5, "comentario": "Cidade encantadora, cheia de história e cultura."},
+            {"usuario": "Carlos", "nota": 4, "comentario": "Muitos pontos turísticos para visitar, recomendo o Louvre e a Torre Eiffel."},
+            {"usuario": "Camila", "nota": 4, "comentario": "Linda cidade, mas cuidado com os preços, pode ser cara para turistas."}
+        ],
+        "imagens": ["paris1.jpg", "paris2.jpg"],
+        "categoria": "cidade"
+    },
+    {
+        "id": 3,
+        "nome": "Rio de Janeiro",
+        "descricao": "Cidade maravilhosa, famosa por suas praias, carnaval e Cristo Redentor.",
+        "horarios": "Varia de acordo com a atração",
+        "custo": "Varia de acordo com a atração",
+        "avaliacoes": [
+            {"usuario": "Pedro", "nota": 5, "comentario": "Minha cidade favorita no Brasil!"},
+            {"usuario": "Ana", "nota": 4, "comentario": "Praias incríveis e vistas deslumbrantes."},
+            {"usuario": "Maria", "nota": 4, "comentario": "Adorei visitar o Cristo Redentor, vista incrível da cidade."}
+        ],
+        "imagens": ["riodejaneiro1.jpg", "riodejaneiro2.jpg"],
+        "categoria": "cidade"
+    },
+    {
+        "id": 4,
+        "nome": "Orlando",
+        "descricao": "Destino popular para parques temáticos, como Disney World e Universal Studios.",
+        "horarios": "Varia de acordo com o parque",
+        "custo": "Varia de acordo com o parque",
+        "avaliacoes": [
+            {"usuario": "João", "nota": 5, "comentario": "Família adorou o Disney World, experiência mágica!"},
+            {"usuario": "Maria", "nota": 4, "comentario": "Parques muito divertidos, mas cheios durante as férias."},
+            {"usuario": "Pedro", "nota": 3, "comentario": "Filas longas nos parques, melhor planejar bem."}
+        ],
+        "imagens": ["orlando1.jpg", "orlando2.jpg"],
+        "categoria": "parque temático"
+    },
+    {
+        "id": 5,
+        "nome": "China",
+        "descricao": "País vasto e diversificado, com uma rica história e cultura.",
+        "horarios": "Varia de acordo com a atração",
+        "custo": "Varia de acordo com a atração",
+        "avaliacoes": [
+            {"usuario": "Ana", "nota": 5, "comentario": "Viagem fascinante, recomendo a Grande Muralha!"},
+            {"usuario": "Carlos", "nota": 4, "comentario": "Cultura rica e paisagens impressionantes."},
+            {"usuario": "Maria", "nota": 4, "comentario": "Ótima experiência, mas atenção às diferenças culturais."}
+        ],
+        "imagens": ["china1.jpg", "china2.jpg"],
+        "categoria": "país"
+    },
+    {
+        "id": 6,
+        "nome": "Cancún",
+        "descricao": "Destino turístico no México conhecido por suas praias de areia branca e águas cristalinas.",
+        "horarios": "Aberto 24 horas",
+        "custo": "Varia de acordo com o resort",
+        "avaliacoes": [
+            {"usuario": "João", "nota": 5, "comentario": "Praias incríveis, água quente e cristalina."},
+            {"usuario": "Camila", "nota": 4, "comentario": "Resorts luxuosos e ótimas opções de entretenimento."},
+            {"usuario": "Pedro", "nota": 4, "comentario": "Ótimo destino para relaxar e aproveitar o sol."}
+        ],
+        "imagens": ["cancun1.jpg", "cancun2.jpg"],
+        "categoria": "praia"
+    }
+]
